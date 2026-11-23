@@ -1,0 +1,8 @@
+{
+  "name": "MahadevPro Book",
+  "description": "Premier online cricket exchange, live sports markets, and interactive table arena with 24/7 verified onboarding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
